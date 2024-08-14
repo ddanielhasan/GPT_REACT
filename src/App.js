@@ -13,10 +13,10 @@ function App() {
           <h1>Job Board</h1>
           <nav>
             <ul>
-              <li><a href="#">Home</a></li>
-              <li><a href="#">Jobs</a></li>
-              <li><a href="#">Login</a></li>
-              <li><a href="#">Contact</a></li>
+              <li><a >Home</a></li>
+              <li><a >Jobs</a></li>
+              <li><a >Login</a></li>
+              <li><a >Contact</a></li>
             </ul>
           </nav>
         </div>
